@@ -1,6 +1,6 @@
-# Personal self-hosting list
+# Self-hosted software list
 
-Many open-source solutions exist to host SaaS software alternatives. Here, you can checkout my **personal list** of software that i **daily** use. All these software have been **tested in production** and **approved** by users.
+Many open-source solutions exist to host SaaS softwares alternatives. Here, you can checkout my **personal list** of software that i **daily** use. All these softwares have been **tested in production** and **approved** by users.
 
 This list is directly inspired from great [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted). This list is very (too ?) long, so i decided to create my own one.
 
