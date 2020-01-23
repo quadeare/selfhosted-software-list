@@ -1,4 +1,4 @@
-# Personal selfhosting list
+# Personal self-hosting list
 
 Many open-source solutions exist to host SaaS software alternatives. Here, you can checkout my **personal list** of softwares that i **daily** use. All these software have been **tested in production** and **approuved** by users.
 
