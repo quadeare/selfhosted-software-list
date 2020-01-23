@@ -1,8 +1,8 @@
 # Personal selfhosting list
 
-Many open-source solutions exist to host yourself replacement of SaaS software. Here, you can checkout my personal list of softwares that i daily use. All these software have been tested in production.
+Many open-source solutions exist to host SaaS software alternatives. Here, you can checkout my **personal list** of softwares that i **daily** use. All these software have been **tested in production** and **approuved** by users.
 
-This list is directly inspired from great [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+This list is directly inspired from great [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted). This list is very (too ?) long, so i decided to create my own one.
 
 --------------------
 
@@ -79,11 +79,17 @@ _Blogging_
 
 **[`^        back to top        ^`](#)**
 
+_Drive_
+
 - [Nextcloud](https://nextcloud.com/) - Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms. ([Demo](https://demo.nextcloud.com/), ([Docker image](https://hub.docker.com/_/nextcloud)) [Source Code](https://github.com/nextcloud/server)) `AGPL-3.0` `PHP`
 
 - [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Docker image](https://hub.docker.com/r/seafileltd/seafile)) ([Source Code](https://github.com/haiwen/seafile)) `GPL-2.0` `C`
 
 - [Pydio](https://pydio.com/) - Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers. ([Docker image](https://hub.docker.com/r/pydio/cells)) ([Source Code](https://github.com/pydio/pydio-core)) `AGPL-3.0` `PHP`
+
+_Object storage_
+
+- [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Docker](https://hub.docker.com/r/minio/minio)) ([Source Code](https://github.com/minio/minio)) `Apache-2.0` `Go`
 
 
 ### Media Streaming
