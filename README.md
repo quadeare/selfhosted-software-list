@@ -1,6 +1,6 @@
 # Personal selfhosting list
 
-Many open-source solutions exist to host yourself replacement of SaaS software. Here, you can checkout my personal list of softwares that i daily use.
+Many open-source solutions exist to host yourself replacement of SaaS software. Here, you can checkout my personal list of softwares that i daily use. All these software have been tested in production.
 
 This list is directly inspired from great [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
@@ -161,11 +161,17 @@ _Project management_
 
 _Ansible_
 
-- [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. ([Docker installation](https://github.com/ansible/awx)) `Apache-2.0` `Javascript`
+- [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. ([Docker](https://github.com/ansible/awx)) `Apache-2.0` `Javascript`
 
 _Backup_
 
-- [Bareos](https://www.bareos.org/en/) - Bareos (Backup Archiving Recovery Open Sourced) is a reliable, cross-network open source software for backup, archiving and recovery of data for all well-established operating systems. ([Docker installation](https://hub.docker.com/u/barcus)) `AGPL-3.0` `C++`
+- [Bareos](https://www.bareos.org/en/) - Bareos (Backup Archiving Recovery Open Sourced) is a reliable, cross-network open source software for backup, archiving and recovery of data for all well-established operating systems. ([Docker](https://hub.docker.com/u/barcus)) `AGPL-3.0` `C++`
+
+_SSO_
+
+- [Keycloak](https://www.keycloak.org/) - Keycloak is an open source identity and access management solution. ([Docker](https://hub.docker.com/r/jboss/keycloak)) ([Source Code](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
+
+- [Keycloak Gatekeeper](https://github.com/keycloak/keycloak-gatekeeper) - A OpenID / Keycloak Proxy service. ([Docker](https://hub.docker.com/r/keycloak/keycloak-gatekeeper)) ([Source Code](https://github.com/keycloak/keycloak-gatekeeper)) `Apache-2.0` `Go`
 
 
 ### VoIP
