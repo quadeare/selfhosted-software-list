@@ -15,6 +15,7 @@ This list is directly inspired from great [awesome-selfhosted](https://github.co
   - [File Sharing and Synchronization](#file-sharing-and-synchronization)
   - [Media Streaming](#media-streaming)
   - [Office Suites](#office-suites)
+  - [Ebooks](#ebooks)
   - [Password Managers](#password-managers)
   - [Personal Dashboards](#personal-dashboards)
   - [Software Factory](#software-factory)
@@ -104,6 +105,12 @@ _Object storage_
 **[`^        back to top        ^`](#)**
 
 - [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Docker image](https://hub.docker.com/r/onlyoffice/documentserver)) ([Source Code](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs`
+
+### Ebooks
+
+**[`^        back to top        ^`](#)**
+
+- [Ubooquity](http://vaemendis.net/ubooquity/) - Self hosted ebook reader (ePUB, CBZ, CBR and PDF) ([Docker image](https://hub.docker.com/r/linuxserver/ubooquity)) `⊘ Proprietary`
 
 
 ### Password Managers
